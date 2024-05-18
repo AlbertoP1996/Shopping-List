@@ -1,10 +1,29 @@
-
 {
-    "products": [
-        {
-            "id": "ec82",
-            "name": "apple",
-            "completed": false
-        }
-    ]
+  "products": [
+    {
+      "id": "ec82",
+      "name": "apple",
+      "completed": true
+    },
+    {
+      "id": "a394",
+      "name": "banana",
+      "completed": true
+    },
+    {
+      "id": "2c84",
+      "name": "carne",
+      "completed": true
+    },
+    {
+      "id": "3c80",
+      "name": "pera",
+      "completed": true
+    },
+    {
+      "id": "dfb1",
+      "name": "arance",
+      "completed": true
+    }
+  ]
 }
