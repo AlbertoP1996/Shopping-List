@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": "ec82",
-      "name": "apple",
-      "completed": true
-    },
-    {
       "id": "a394",
       "name": "banana",
       "completed": true
@@ -24,6 +19,11 @@
       "id": "dfb1",
       "name": "arance",
       "completed": true
+    },
+    {
+      "id": "4a68",
+      "name": "tovaglioli",
+      "completed": false
     }
   ]
 }
